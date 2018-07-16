@@ -1,0 +1,7 @@
+C:\Users\alann\source\repos\Async_Await2\Async_Await2\bin\Debug\Async_Await2.exe.config
+C:\Users\alann\source\repos\Async_Await2\Async_Await2\bin\Debug\Async_Await2.exe
+C:\Users\alann\source\repos\Async_Await2\Async_Await2\bin\Debug\Async_Await2.pdb
+C:\Users\alann\source\repos\Async_Await2\Async_Await2\obj\Debug\Async_Await2.csprojAssemblyReference.cache
+C:\Users\alann\source\repos\Async_Await2\Async_Await2\obj\Debug\Async_Await2.csproj.CoreCompileInputs.cache
+C:\Users\alann\source\repos\Async_Await2\Async_Await2\obj\Debug\Async_Await2.exe
+C:\Users\alann\source\repos\Async_Await2\Async_Await2\obj\Debug\Async_Await2.pdb
